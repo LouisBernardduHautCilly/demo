@@ -1,14 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "livres" : [ {"id":"1", "titre":"Retour à la montagne", "auteur":"Roger Frisson Roche" },
+            {"id":"2", "titre":"Le Club des Incorrigibles Optimistes", "auteur":"Jean-Claude" },
+        {"id":"3", "titre":"Le Silmarilion", "auteur":"J.R.R. Tolkien" },
+        {"id":"4", "titre":"Les Contes de Terremer-Le Changeur de Forme", "auteur":"Ursula Le Guin" }]
 }
